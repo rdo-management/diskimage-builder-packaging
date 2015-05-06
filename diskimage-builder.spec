@@ -18,6 +18,7 @@ Requires: qemu-img
 Requires: curl
 Requires: python-argparse
 Requires: python-babel
+Requires: python-six
 Requires: tar
 Requires: dib-utils
 
