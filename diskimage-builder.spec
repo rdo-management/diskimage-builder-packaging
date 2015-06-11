@@ -21,6 +21,7 @@ Requires: python-babel
 Requires: python-six
 Requires: tar
 Requires: dib-utils
+Requires: PyYAML
 
 %prep
 %setup -q -n %{name}-%{upstream_version}
